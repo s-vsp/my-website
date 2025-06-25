@@ -3,7 +3,7 @@
 title: Kamil Kwarciak
 
 # Name pronunciation (optional)
-name_pronunciation: Kamil Kwarciak
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Kamil
