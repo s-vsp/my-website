@@ -11,7 +11,7 @@ last_name: Kwarciak
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐬
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/s-vsp
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
