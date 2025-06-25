@@ -33,53 +33,54 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kamil.kwarciak@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+%%  - icon: brands/x
+%%    url: https://twitter.com/GetResearchDev
+%%  - icon: brands/instagram
+%%    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/s-vsp
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://pl.linkedin.com/in/kamil-kwarciak-182069211
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=p_LXS-4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1392-4291
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Medical Imaging
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+%%  - area: PhD Artificial Intelligence
+%%    institution: Stanford University
+%%    date_start: 2016-01-01
+%%    date_end: 2020-12-31
+%%    summary: |
+%%      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+%%    button:
+%%      text: 'Read Thesis'
+%%      url: 'https://example.com'
+  - area: MSc Data Science
+    institution: AGH University of Krakow
+    date_start: 2023-01-02
+    date_end: 2024-30-10
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
+      Grade: 5.0
+      Graduated with Honors
+    
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Biomedical Engineering
+    institution: AGH University of Krakow
+    date_start: 2019-01-10
+    date_end: 2023-30-01
     summary: |
-      GPA: 3.4/4.0
+      Grade: 5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -185,4 +186,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an experienced Research Engineer specializing in AI/ML, with over 3 years of industry experience and more than 1.5 years of academic experience. I am deeply passionate about research, particularly in the
+fields of computer vision, medical imaging and generative models. I am very task-oriented and have contributed to multiple pre-sales, PoCs, MVPs, and final product projects, including speech AI services and computer
+vision applications. Furthermore, I have experience working on large, multi-institutional grants and projects, such as the EU Horizon 2020 TouchlessAI (focused on human-centered AI development) and NCBiR DeepImplant (deep learning-based implant design).
