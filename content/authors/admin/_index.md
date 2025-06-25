@@ -35,9 +35,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kamil.kwarciak@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+#  - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+#  - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/s-vsp
