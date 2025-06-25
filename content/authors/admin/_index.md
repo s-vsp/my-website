@@ -3,7 +3,7 @@
 title: Kamil Kwarciak
 
 # Name pronunciation (optional)
-% name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kamil Kwarciak
 
 # Full name (for SEO)
 first_name: Kamil
