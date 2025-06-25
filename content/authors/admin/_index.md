@@ -42,7 +42,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/s-vsp
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: [https://www.linkedin.com/](https://pl.linkedin.com/in/kamil-kwarciak-182069211)
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
